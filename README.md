@@ -283,6 +283,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Vercel projects, deployments, and logs.
   
 ### 💬 <a name="communication"></a>Communication
+- [Cooper Email](https://cooperemail.com) `https://cooperemail.com/mcp`
+  [![Cooper Email MCP connector](https://glama.ai/mcp/connectors/com.cooperemail/cooper-email/badges/score.svg)](https://glama.ai/mcp/connectors/com.cooperemail/cooper-email)
+  🔐 - Give agents their own email inbox to send, receive via signed webhooks and full-text search mail.
 
 - [ErzyCall](https://app.erzycall.com/docs/mcp) `https://app.erzycall.com/api/mcp`
   [![ErzyCall MCP connector](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call/badges/score.svg)](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call)
