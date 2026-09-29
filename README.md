@@ -256,7 +256,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentsPodium Hosting MCP connector](https://glama.ai/mcp/connectors/com.agentspodium/hosting/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentspodium/hosting)
   🔓 - Create, pay for and manage hosted AI agent pods (Hermes, OpenClaw, n8n); account tools need a key.
 - [Cloudflare Bindings](https://developers.cloudflare.com/agents/model-context-protocol/) `https://bindings.mcp.cloudflare.com/mcp`
-  🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
+  🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings. - [deed.page](https://deed.page) `https://deed.page/mcp`   [![deed.page MCP connector](https://glama.ai/mcp/connectors/page.deed/deed-page/badges/score.svg)](https://glama.ai/mcp/connectors/page.deed/deed-page)   🔓 - Publish static sites to permanent URLs at an agent-chosen slug; no account, email code, or claim link.
 - [FARPY](https://farpy.com) `https://api.farpy.com/mcp`
   [![FARPY MCP connector](https://glama.ai/mcp/connectors/com.farpy.api/farpy/badges/score.svg)](https://glama.ai/mcp/connectors/com.farpy.api/farpy)
   🔐 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
